@@ -1,0 +1,19 @@
+{
+  "name": "node_express_tutorial",
+  "version": "1.0.0",
+  "description": "This is a learning/ reference repo ",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PremanandChowdhury/Node_Express.git"
+  },
+  "author": "Premanand Chowdhury",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PremanandChowdhury/Node_Express/issues"
+  },
+  "homepage": "https://github.com/PremanandChowdhury/Node_Express#readme"
+}
