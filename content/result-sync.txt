@@ -1,0 +1,1 @@
+Result file:  Hello this is first text file Hello this is second text file Appending some text
