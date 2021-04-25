@@ -4,7 +4,8 @@
   "description": "This is a learning/ reference repo ",
   "main": "app.js",
   "scripts": {
-    "start": "nodemon app"
+    "start": "nodemon app",
+    "dev-exp": "nodemon ./Express/app"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/PremanandChowdhury/Node_Express/issues"
   },
-  "homepage": "https://github.com/PremanandChowdhury/Node_Express#readme"
+  "homepage": "https://github.com/PremanandChowdhury/Node_Express#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
